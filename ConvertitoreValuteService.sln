@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ConvertitoreValuteService", "ConvertitoreValuteService\", "{C9565CEE-57C8-42E3-85D3-F64D78AA7360}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57779"
+		Debug.AspNetCompiler.PhysicalPath = "ConvertitoreValuteService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57779\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57779"
+		Release.AspNetCompiler.PhysicalPath = "ConvertitoreValuteService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57779\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57779"
+		SlnRelativePath = "ConvertitoreValuteService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9565CEE-57C8-42E3-85D3-F64D78AA7360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9565CEE-57C8-42E3-85D3-F64D78AA7360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399E532F-FBBC-4FE7-A83C-0AEE10D53FE5}
+	EndGlobalSection
+EndGlobal
