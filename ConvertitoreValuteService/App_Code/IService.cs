@@ -17,6 +17,12 @@ public interface IService
 	[OperationContract]
 	CompositeType GetDataUsingDataContract(CompositeType composite);
 
+	[OperationContract]
+	List<Valuta> GetValute(); //Metodo per ottenere tutti i tipi di valute
+
+	[OperationContract]
+	double converti(double importo, string da, string a);//Metodo per ottenere tutti i tipi di valute
+
 	// TODO: aggiungere qui le operazioni del servizio
 }
 
