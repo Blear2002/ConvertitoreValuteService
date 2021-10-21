@@ -24,8 +24,8 @@ public class Service : IService
     }
     public List<Valuta> GetValute()
     {
-        valute = new List<Valuta>(model.getAll());
-        return valute;
+        return model.getAll();
+        
     }
     public double converti(double importo, string da, string a)
     {

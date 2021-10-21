@@ -29,27 +29,35 @@ public class Valuta
             case "EUR":
                 Valore = 1;
                 break;
+
             case "BTC":
                 Valore = 0.000017;
                 break;
+
             case "USD":
                 Valore = 1.1655;
                 break;
-            case "GBP ":
+
+            case "GBP":
                 Valore = 0.8427;
                 break;
+
             case "JPY":
                 Valore = 133.12;
                 break;
+
             case "CHF":
                 Valore = 1.0710;
                 break;
+
             case "CAD":
                 Valore = 1.4357;
                 break;
+
             case "AUD":
                 Valore = 1.5495;
                 break;
+
             default:
                 Valore = 0;
                 break;
